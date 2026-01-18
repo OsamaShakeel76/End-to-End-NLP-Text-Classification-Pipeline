@@ -1,14 +1,14 @@
 # End-to-End NLP Text Classification Pipeline
 
 ## Overview
-This repository presents an **end-to-end Natural Language Processing (NLP) text classification pipeline** designed to transform unstructured text into meaningful, actionable categories. The project demonstrates a complete machine learning workflow, from raw text preprocessing to model training, evaluation, and inference.
+This repository presents an end-to-end Natural Language Processing (NLP) text classification pipeline designed to transform unstructured text into meaningful, actionable categories. The project demonstrates a complete machine learning workflow, from raw text preprocessing to model training, evaluation, and inference.
 
-The pipeline is built using **classical NLP techniques and supervised machine learning models**, making it efficient, interpretable, and suitable for real-world applications such as customer complaint analysis, feedback categorization, and automated text routing.
+The pipeline is built using classical NLP techniques and supervised machine learning models, making it efficient, interpretable, and suitable for real-world applications such as customer complaint analysis, feedback categorization, and automated text routing.
 
 ---
 
 ## Business Context
-Organizations in domains such as **insurance, finance, banking, and customer support** handle large volumes of unstructured textual data daily. Manually reviewing and categorizing this information is time-consuming and error-prone.
+Organizations in domains such as insurance, finance, banking, and customer support handle large volumes of unstructured textual data daily. Manually reviewing and categorizing this information is time-consuming and error-prone.
 
 This project addresses the problem by:
 - Automatically classifying text data
@@ -81,5 +81,11 @@ These metrics provide a balanced understanding of classification effectiveness, 
 - **Scikit-learn**
 - **NLTK**
 - **Matplotlib / Seaborn**
+
+
+## Author
+**Osama Shakeel**
+
+Senior AI Engineer
 
 
