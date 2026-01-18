@@ -74,13 +74,13 @@ These metrics provide a balanced understanding of classification effectiveness, 
 ---
 
 ## Technology Stack
-- **Python**
-- **Jupyter Notebook**
-- **Pandas**
-- **NumPy**
-- **Scikit-learn**
-- **NLTK**
-- **Matplotlib / Seaborn**
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Matplotlib / Seaborn
 
 
 ## Author
